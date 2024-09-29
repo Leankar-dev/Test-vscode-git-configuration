@@ -5,6 +5,8 @@ void main() {
   runApp(const MyApp());
 }
 
+// alterado no vscode
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
